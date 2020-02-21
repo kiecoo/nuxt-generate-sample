@@ -1,0 +1,21 @@
+{
+  "name": "test-nuxt",
+  "version": "1.0.0",
+  "description": "My well-made Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "build-docs": "rimraf docs && npm run generate && copyfiles --up 1 \"dist/**/*\" \"docs/\""
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.2.0",
+    "rimraf": "^3.0.2"
+  }
+}
