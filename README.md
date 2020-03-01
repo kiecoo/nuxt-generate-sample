@@ -27,5 +27,8 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 npx create-nuxt-app test-nuxt
 ```
 2. install these package for cross-platform files.
+```
+npm i -D copyfiles rimraf
+```
 3. Edit npm script
 4. Run build below.
