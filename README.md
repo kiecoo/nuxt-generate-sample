@@ -41,5 +41,8 @@ scripts: {
 
 ```
 4. Run build below.
+```
 # install dependencies.
 $ npm ci
+```
+
