@@ -47,5 +47,8 @@ $ npm ci
 
 # generate static project.
 $ npm run build-docs
+
+# serve and test your project.
+$ npx serve docs/
 ```
 
