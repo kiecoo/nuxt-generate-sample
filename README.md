@@ -44,5 +44,8 @@ scripts: {
 ```
 # install dependencies.
 $ npm ci
+
+# generate static project.
+$ npm run build-docs
 ```
 
