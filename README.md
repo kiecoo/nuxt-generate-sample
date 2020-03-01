@@ -23,6 +23,9 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
  
 ## Step
 1. initialize project
+```
+npx create-nuxt-app test-nuxt
+```
 2. install these package for cross-platform files.
 3. Edit npm script
 4. Run build below.
