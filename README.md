@@ -31,9 +31,7 @@ npx create-nuxt-app test-nuxt
 npm i -D copyfiles rimraf
 ```
 3. Edit npm script
-```
 
-3. Edit npm script
 ```diff
 scripts: {
   ...
