@@ -12,7 +12,7 @@
     "build-docs": "rimraf docs && npm run generate && copyfiles --up 1 \"dist/**/*\" \"docs/\""
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "copyfiles": "^2.2.0",
